@@ -16,4 +16,4 @@ jobs:
         run: pip install norminette
 
       - name: Run norminette
-        run: norminette *.c *.h
+        run: norminette
