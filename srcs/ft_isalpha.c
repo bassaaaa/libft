@@ -6,12 +6,12 @@
 /*   By: tsito <tsito@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/15 16:13:59 by tsito             #+#    #+#             */
-/*   Updated: 2026/03/15 16:20:03 by tsito            ###   ########.fr       */
+/*   Updated: 2026/03/15 16:36:37 by tsito            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-int ft_isalpha(int c) {
-
+int	ft_isalpha(int c)
+{
 }
